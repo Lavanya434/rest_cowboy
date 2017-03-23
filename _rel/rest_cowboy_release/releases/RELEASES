@@ -1,0 +1,11 @@
+[{release,"rest_cowboy_release","1","7.3",
+          [{stdlib,"2.8","./lib/stdlib-2.8"},
+           {kernel,"4.2","./lib/kernel-4.2"},
+           {crypto,"3.6.3","./lib/crypto-3.6.3"},
+           {cowlib,"1.0.2","./lib/cowlib-1.0.2"},
+           {ranch,"1.2.1","./lib/ranch-1.2.1"},
+           {cowboy,"1.0.4","./lib/cowboy-1.0.4"},
+           {rest_cowboy,"1.0.4","./lib/rest_cowboy-1.0.4"},
+           {sasl,"2.7","./lib/sasl-2.7"},
+           {runtime_tools,"1.9.3","./lib/runtime_tools-1.9.3"}],
+          permanent}].
